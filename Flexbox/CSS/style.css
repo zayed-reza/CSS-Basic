@@ -1,0 +1,20 @@
+.flex-container{
+    display: flex;
+    background: red;
+    padding: 10px;
+    align-items: center;
+    height: 400px;
+    /*flex-direction: column;
+    flex-wrap: wrap;*/
+    justify-content: space-between;
+
+}
+.flex-item{
+    border:1px solid white;
+    padding: 20px;
+    font-size: 30px;
+    color: yellow;
+    margin: 10px;
+    width: 100px;
+    
+}

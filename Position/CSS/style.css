@@ -1,0 +1,145 @@
+/*.green-box{
+    width: 200px;
+    height: 200px;
+    background: green;
+    position: absolute;
+    top: 50px;
+    
+}*/
+/*.green-box{
+    width: 200px;
+    height: 200px;
+    background: green;
+    position: absolute;
+    left: 50px;
+}*/
+/*.green-box{
+    width: 200px;
+    height: 200px;
+    background: green;
+    position: absolute;
+    right: 50px;
+}*/
+/*.green-box{
+    width: 200px;
+    height: 200px;
+    background: green;
+    position: absolute;
+    bottom: 50px;
+}*/
+/*.green-box{
+    width: 200px;
+    height: 200px;
+    background: green;
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+}*/
+/*.green-box{
+    width: 200px;
+    height: 200px;
+    background: green;
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+}*/
+/*.green-box{
+    width: 200px;
+    height: 200px;
+    background: green;
+    position: absolute;
+    right: 0;
+    left: 0;
+    top: 0;
+    margin: auto;
+    
+}*/
+/*.green-box{
+    width: 200px;
+    height: 200px;
+    background: green;
+    position: absolute;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    margin: auto;
+    
+}*/
+/*.green-box{
+    width: 200px;
+    height: 200px;
+    background: green;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    top: 0;
+    margin: auto;
+    
+}*/
+/*.green-box{
+    width: 200px;
+    height: 200px;
+    background: green;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    margin: auto;
+    
+}*/
+/*.green-box{
+    width: 200px;
+    height: 200px;
+    background: green;
+    position: absolute;
+    right: 0;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    
+}*/
+/*.green-box{
+    width: 600px;
+    height: 350px;
+    background: green;
+    position: relative;
+    
+    
+}
+.red-box{
+    width: 200px;
+    height: 200px;
+    background:red;
+    position: absolute;
+    right: 0;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    border-radius: 50%;
+}*/
+.m{
+    border: 3px solid red;
+    padding: 5px;
+    margin-top: 10px;
+    background: green;
+    position: sticky;
+    
+}
+/*p{
+    padding-bottom: 1000px;
+}*/
+p{
+    position: fixed;
+    bottom: 0;
+    top: 0;
+    width: 300px;
+    border: 2px solid red;
+}
+
+
+
+
+
+

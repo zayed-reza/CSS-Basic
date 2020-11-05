@@ -1,0 +1,14 @@
+p::first-letter{
+    color: red;
+    font-size: large;
+}
+p::first-line{
+    color: red;
+    font-size: large;
+}
+h2::before{
+    content: url(../img/z.jpg);
+}
+h2::after{
+    content: url(../img/z.jpg);
+}

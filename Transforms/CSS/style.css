@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+/*.box{
+    width: 100px;
+    height: 100px;
+    background: red;
+    border: 2px solid #000000;
+    padding: 10px;
+    font-size: 20px;
+    transform: translate(100px, 100px);
+
+}*/
+/*.box{
+    width: 100px;
+    height: 100px;
+    background: red;
+    border: 2px solid #000000;
+    padding: 10px;
+    font-size: 20px;
+    margin: 50px auto;
+    transform: rotate(60deg);
+    
+
+}*/
+.box{
+    width: 100px;
+    height: 100px;
+    background: red;
+    border: 2px solid #000000;
+    padding: 10px;
+    font-size: 20px;
+    margin: 50px auto;
+    transform:scale(0.5);
+    transform: scaleX(1);
+    transform: scaleY(2);
+    transform: skew(45deg);
+    transform: skewX(20);
+    transform: skewY(30);
+}

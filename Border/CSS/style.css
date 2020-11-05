@@ -1,0 +1,49 @@
+.z{
+    border-width: 5px;
+    border-style: solid;
+    border-color: aqua;
+}
+.a{
+    border-width: 10px;
+    border-style: dotted;
+    border-color: blue;
+}
+.y{
+    border-width: 10px;
+    border-style: dashed;
+   border-color: brown;
+}
+.e{
+    border-width: 10px;
+    border-style: ridge;
+    border-color: burlywood;
+}
+.d{
+    border-width: 10px ;
+    border-style: inset;
+    border-color: yellowgreen;
+}
+.r{
+    border-width: 10px 20px 30px;
+    border-style: solid;
+    border-color: paleturquoise;
+}
+.b{
+    border-width: 10px 20px 30px;
+    border-style:dotted solid dashed;
+    border-color: paleturquoise;
+}
+.c{
+    border-width: 10px 20px 30px;
+    border-style:dotted solid dashed;
+    border-color: paleturquoise red blue violet;
+}
+.f{
+    border-width: 10px;
+    border-style:solid ;
+    border-color:  violet;
+    border-radius: 10px 10px 20px 20px;
+}
+
+
+

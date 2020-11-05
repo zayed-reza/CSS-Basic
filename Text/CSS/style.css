@@ -1,0 +1,78 @@
+p{
+    color: green;
+    text-align: center;
+}
+p{
+    color: green;
+    text-align: right;
+
+}
+p{
+    color: green;
+    text-align: left;
+    
+}
+p{
+    color: green;
+    text-align: justify;
+    
+}
+a{
+    color: red;
+    text-decoration: none;
+}
+h2{
+    color: greenyellow;
+    text-decoration: underline;
+}
+h2{
+    color: greenyellow;
+    text-decoration: overline;
+
+}
+h2{
+    color: greenyellow;
+    text-decoration: line-through;
+    
+}
+p{
+    color: green;
+    text-align: justify;
+    text-transform: uppercase;
+    
+}
+p{
+    color: green;
+    text-align: justify;
+    text-transform: lowercase;
+    
+}
+p{
+    color: green;
+    text-align: justify;
+    text-transform:capitalize;
+    text-indent: 50px;
+}
+h2{
+    color: greenyellow;
+    
+    letter-spacing: 3px;
+    
+}
+p{
+    color: green;
+    text-align: justify;
+    text-transform:capitalize;
+    text-indent: 50px;
+    line-height: 1.5;
+}
+h2{
+    color: greenyellow;
+    word-spacing: 20px;
+    
+}
+h2{
+    color: greenyellow;
+    text-shadow: 1px 2px red;
+    
+}

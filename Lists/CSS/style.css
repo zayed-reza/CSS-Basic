@@ -1,0 +1,27 @@
+ul{
+    list-style-type: circle;
+}
+ul{
+    list-style-type: lower-roman;
+}
+ul{
+    list-style-type: lower-alpha;
+}
+ul{
+    list-style-type: upper-roman;
+}
+ul{
+    list-style-type: lower-roman;
+}
+/*ul{
+    
+    list-style-image: url("../img/sun1.jpg");
+}*/
+ul{
+    list-style-type: circle;
+    list-style-position: inside;
+}
+ul{
+    list-style: circle inside;
+}
+

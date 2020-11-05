@@ -1,0 +1,11 @@
+h2:nth-child(3)
+{
+    color: red;
+}
+h2:first-child{
+    color: yellow;
+}
+h2:last-child{
+    color: green;
+
+}

@@ -1,0 +1,46 @@
+span.a{
+    width: 100px;
+    height: 100px;
+    display: inline;
+    background: yellow;
+    border: 2px solid black;
+    padding: 5px;
+}
+span.b{
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    background: yellow;
+    border: 2px solid black;
+    padding: 5px;
+}
+span.c{
+    width: 100px;
+    height: 100px;
+    display: block;
+    background: yellow;
+    border: 2px solid black;
+    padding: 5px;
+}
+ul{
+    background: yellow;
+}
+ul{
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+ul li{
+    display: inline-block;
+    padding: 10px 20px;
+}
+ul li a{
+    text-decoration: none;
+    color: black;
+}
+ul li:hover{
+    background: red;
+}
+ul li:hover a{
+    color: green;
+}
